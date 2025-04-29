@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-23",
+    "question": "What is `useState` and how does it work in React?",
+    "answer": "`useState` is a React Hook that enables functional components to manage state. It returns an array containing the current state value and a function to update that value. Invoking the update function triggers a re-render of the component with the new state."
+  },
+  {
+    "id": 2,
+    "date": "2025-04-23",
+    "question": "What is the purpose of `useEffect` in React?",
+    "answer": "`useEffect` is a React Hook employed to perform side effects within functional components. These effects can include data fetching, DOM manipulation, or setting up event listeners. It executes after each render cycle and can optionally return a cleanup function to handle resources."
+  },
+  {
+    "id": 3,
+    "date": "2025-04-23",
+    "question": "What is a custom hook in React and when should one be used?",
+    "answer": "A custom hook is a JavaScript function whose name starts with 'use' and which may call other hooks. Custom hooks are beneficial for extracting and reusing component logic across multiple components, promoting code DRYness."
+  },
+  {
+    "id": 4,
+    "date": "2025-04-23",
+    "question": "Difference between controlled and uncontrolled components. Which one is better?",
+    "answer": "Controlled components rely on React state to manage form data, with React serving as the single source of truth. Uncontrolled components, conversely, store form data directly in the DOM. Controlled components are generally favored due to the enhanced control they offer over form behavior, validation processes, and overall state management."
+  },
+  {
+    "id": 5,
+    "date": "2025-04-23",
+    "question": "Tell us something about `useFormStatus()` in React.",
+    "answer": "`useFormStatus()` is a React Hook designed for use with React Server Actions (available in React 18 and later). It provides information regarding the submission status of a form, indicating whether it is currently pending or if any errors have occurred. This is valuable for implementing dynamic UI updates during asynchronous form submissions."
+  }
+]

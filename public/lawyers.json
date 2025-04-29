@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lawyer-1",
+    "name": "Amina Al-Farouqi",
+    "specialty": "Criminal Law",
+    "experience_years": 12,
+    "license_number": "CLX98231",
+    "fee": 250,
+    "availability": ["Monday", "Wednesday", "Friday", "Tuesday"],
+    "image_url": "https://i.ibb.co.com/cc84wFYn/muslim-women-laywers-Imgur.png"
+  },
+  {
+    "id": "lawyer-2",
+    "name": "Omar Siddiqui",
+    "specialty": "Family Law",
+    "experience_years": 9,
+    "license_number": "FLB74520",
+    "fee": 200,
+    "availability": ["Tuesday", "Thursday", "Monday"],
+    "image_url": "https://i.ibb.co.com/xt5Zjhhx/muslim-men-laywers-Imgur.png"
+  },
+  {
+    "id": "lawyer-3",
+    "name": "Yusuf Zhang",
+    "specialty": "Corporate Law",
+    "experience_years": 15,
+    "license_number": "CZL88812",
+    "fee": 300,
+    "availability": ["Wednesday", "Thursday", "Monday"],
+    "image_url": "https://i.ibb.co.com/YF37wjKn/muslim-men-laywers-Imgur-1.png"
+  },
+  {
+    "id": "lawyer-4",
+    "name": "Fatimah Razi",
+    "specialty": "Immigration Law",
+    "experience_years": 7,
+    "license_number": "ILR52103",
+    "fee": 180,
+    "availability": ["Monday", "Tuesday", "Friday", "Thursday"],
+    "image_url": "https://i.ibb.co.com/Pz5RV293/muslim-women-laywers-Imgur-1.png"
+  },
+  {
+    "id": "lawyer-5",
+    "name": "Layla Nasser",
+    "specialty": "Environmental Law",
+    "experience_years": 10,
+    "license_number": "ENL69375",
+    "fee": 220,
+    "availability": ["Monday", "Thursday", "Wednesday"],
+    "image_url": "https://i.ibb.co.com/sdYsvqYV/muslim-women-laywers-Imgur-3.png"
+  },
+  {
+    "id": "lawyer-6",
+    "name": "Khalid Ansari",
+    "specialty": "Tax Law",
+    "experience_years": 8,
+    "license_number": "TXS32981",
+    "fee": 270,
+    "availability": ["Tuesday", "Friday", "Thursday"],
+    "image_url": "https://i.ibb.co.com/r2mFn3fj/muslim-men-laywers-Imgur-2.png"
+  },
+  {
+    "id": "lawyer-7",
+    "name": "Hamza Kim",
+    "specialty": "Intellectual Property",
+    "experience_years": 6,
+    "license_number": "IPK57822",
+    "fee": 260,
+    "availability": ["Thursday", "Friday", "Wednesday"],
+    "image_url": "https://i.ibb.co.com/1twRMDcg/muslim-men-laywers-Imgur-3.png"
+  },
+  {
+    "id": "lawyer-8",
+    "name": "Zahra Malik",
+    "specialty": "Real Estate Law",
+    "experience_years": 11,
+    "license_number": "REL90031",
+    "fee": 240,
+    "availability": ["Monday", "Wednesday", "Thursday"],
+    "image_url": "https://i.ibb.co.com/gLR4yNfc/muslim-women-laywers-Imgur-2.png"
+  },
+  {
+    "id": "lawyer-9",
+    "name": "Nura Patel",
+    "specialty": "Labor Law",
+    "experience_years": 13,
+    "license_number": "LBL30219",
+    "fee": 210,
+    "availability": ["Tuesday", "Wednesday", "Monday"],
+    "image_url": "https://i.ibb.co.com/XBkrx0X/muslim-women-laywers-Imgur-5.png"
+  },
+  {
+    "id": "lawyer-10",
+    "name": "Hassan Oliveira",
+    "specialty": "Civil Rights Law",
+    "experience_years": 14,
+    "license_number": "CRJ71344",
+    "fee": 280,
+    "availability": ["Monday", "Thursday", "Wednesday"],
+    "image_url": "https://i.ibb.co.com/zWW3DXqZ/muslim-men-laywers-Imgur-4.png"
+  },
+  {
+    "id": "lawyer-11",
+    "name": "Bilal Dawood",
+    "specialty": "Bankruptcy Law",
+    "experience_years": 5,
+    "license_number": "BKD10192",
+    "fee": 190,
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "image_url": "https://i.ibb.co.com/23NRbKMY/muslim-men-laywers-Imgur-5.png"
+  },
+  {
+    "id": "lawyer-12",
+    "name": "Maryam White",
+    "specialty": "International Law",
+    "experience_years": 9,
+    "license_number": "INW61582",
+    "fee": 300,
+    "availability": ["Wednesday", "Friday", "Tuesday"],
+    "image_url": "https://i.ibb.co.com/LX5Ypm3x/muslim-women-laywers-Imgur-4.png"
+  }
+]

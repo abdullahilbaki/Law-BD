@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.plus-jakarta-sans {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.dashed {
+  border: 0.5px dashed transparent;
+  background-image: linear-gradient(
+    90deg,
+    rgb(97, 95, 95) 50%,
+    transparent 50%
+  );
+  background-size: 1rem 1rem;
+  background-repeat: repeat;
+}
+
+.mulish {
+  font-family: "Mulish", sans-serif;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
